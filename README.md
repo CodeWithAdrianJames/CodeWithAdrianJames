@@ -5,11 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codewithadrianjames" alt="codewithadrianjames" /></a> </p>
 
-- 🔭 I’m currently working on **a Role-Playing Game (RPG)**
-
 - 🌱 I’m currently learning **Linux, React, Vue, GSAP , Nodejs, Game Development**
-
-- 👯 I’m looking to collaborate on **Game design ideas, mechanics, and storytelling for my RPG**
 
 - 🤝 I’m looking for help with **Backend app development**
 
