@@ -26,8 +26,8 @@
 ┌─────────────────────────────────────────────────────────────┐
 │  👤  name      :  Adrian James Bona                         │
 │  📍  location  :  Philippines 🇵🇭                            │
-│  🎯  role      :  Aspiring Full Stack & Cloud Engineer       │
-│  ☁️  dream     :  Cloud & Platform Engineer                  │
+│  🎯  role      :  Aspiring DevOps Engineer
+│  ☁️  dream     :  DevOps & Platform Engineer                  │
 │                                                              │
 │  🌊  currently_into:                                         │
 │        ∙ Event-Driven Architectures (RabbitMQ, SQS)         │
@@ -35,8 +35,7 @@
 │        ∙ Container Orchestration (Docker → Kubernetes)       │
 │        ∙ Platform Engineering & DevOps Tooling               │
 │                                                              │
-│  🤝  open_to   :  DevOps & Cloud-Native Collaborations      │
-│  💬  ask_about :  System Design · NestJS APIs · DB Arch     │
+│  🤝  open_to   :  DevOps & Cloud-Native Collaborations      │     │
 │  📫  reach_me  :  adrianjamesbona24@gmail.com               │
 └─────────────────────────────────────────────────────────────┘
 ```
